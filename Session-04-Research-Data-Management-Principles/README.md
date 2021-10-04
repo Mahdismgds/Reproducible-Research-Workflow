@@ -25,11 +25,11 @@ From the [McMaster ROADS](https://roads.mcmaster.ca/research-data-management-at-
 
 - **You and your Collaborators**:  Setting up processes and standards for how you collect, document and organize your data will mean that you spend less time on data management over the course of your research.  You will spend less time searching for files and trying to "figure things out" when you have properly managed your data.  Collaborators (including your future self) will have an easier time understanding and using the data too!  Additionally, getting data to a point where it is accessible by others will increase impact and citations.
 
-- **Journals**:  RDM practices make it easier to compile and provide the supporting data that many journals now require alongside submitted articles.  Provision of data is critical to reproducability and credibility.  
+- **Journals**:  RDM practices make it easier to compile and provide the supporting data that many journals now require alongside submitted articles.  Provision of data is critical to reproducibility and credibility.  
 
 - **Funders**:  Funding agencies, particularly public funding agencies are under pressure to increase their accountability and show value for their investment in research.  They also understand that data that is discoverable/reusable may prevent duplication of effort and accelerate new research. 
 
-- **Science/Body of Knowledge**:  Well managed data will be discoverable, accessible and understandable making it ultimitely reusable for new science or study!  
+- **Science/Body of Knowledge**:  Well managed data will be discoverable, accessible and understandable making it ultimately reusable for new science or study!  
 
 ### Drivers of RDM - Data as a Research Output
 
